@@ -7,6 +7,7 @@ Trying to make a list of the best web podcasts. Have one we missed? Please submi
 + [**The Web Ahead**](http://5by5.tv/webahead) - Conversations with world experts on changing technologies and future of the web.
 + [**The Big Web Show**](http://5by5.tv/bigwebshow) - A podcast about web publishing, art direction, content strategy, typography, web technology, and more.
 + [**This Developer's Life**](http://thisdeveloperslife.com/) - A podcast about developers and their lives.
++ [**Ladies in Tech**](http://ladiesintech.com/category/podcast/) - Celebrating and supporting female speakers in technology.
 
 ## Front End Development
 
