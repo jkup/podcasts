@@ -19,3 +19,10 @@ Trying to make a list of the best web podcasts. Have one we missed? Please submi
 
 * [**Turing Incomplete**](http://turing.cool/) - A weekly podcast about all things programming, starring [Justin Cambell](https://twitter.com/justincampbell), [Jearvon Dharrie](https://twitter.com/jearvon), [Pam Selle](https://twitter.com/pamasaur) and [Len Smith](https://twitter.com/ignu).
 + [**NodeUp**](http://nodeup.com/) - A Node.js podcast put together by [ffloat](https://twitter.com/ffloat) and [dshaw](https://twitter.com/dshaw).
+
+## Ruby
+
+* [**The Ruby Show**](http://rubyshow.com/) - A podcast featuring news and discussion about the latest topics in the Ruby and Rails communities by [Peter Cooper](https://twitter.com/peterc) and [Jason Seifer](https://twitter.com/jseifer).
+* [**Ruby 5**](https://ruby5.codeschool.com/) - The latest news in the Ruby and Rails community.
+* [**Ruby Rouges**](http://devchat.tv/ruby-rogues/) - Ruby Rogues is a weekly panel discussion about programming.
+* [**Ruby on Rails Podcast**](http://5by5.tv/rubyonrails) - The Ruby on Rails Podcast, Hosted by [Sean Devine](https://twitter.com/barelyknown).
